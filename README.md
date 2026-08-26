@@ -1,5 +1,4 @@
 # It's All Greek To Me! 🌍 
-**A Custom Language Identification App**
 
 ## 📌 Overview
 This project tackles the task of **Language Identification** for written text. Instead of relying on off-the-shelf machine learning classifiers, I implemented a **Multinomial Naive Bayes (MNB)** algorithm entirely from scratch. 
