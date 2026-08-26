@@ -19,7 +19,7 @@ The model was trained on a balanced subset of the **WiLI-2018 dataset**, consist
 3. **Prediction:** The custom `myMNB` class calculates the posterior probabilities for each language and predicts the most likely language.
 
 ## 🏆 Performance
-The model achieved a remarkable **97.83% accuracy**  on the test set. 
+The model achieved a **97.83% accuracy**  on the test set. 
 
 ## 📂 Repository Structure
 * `app.py`: The Streamlit web application script.
