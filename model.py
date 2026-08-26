@@ -97,8 +97,8 @@ class myMNB:
         return y_pred, P
 
 
-# Function to pre-process every text
 def text_preprocess(corpus):
+
     remove_table = str.maketrans('', '', string.punctuation + string.digits)
         # define a translation table to remove punctuation and digits
     cleaned = []
