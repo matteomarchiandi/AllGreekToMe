@@ -5,7 +5,7 @@ This project tackles the task of **Language Identification** for written text. I
 
 To make the model accessible to the public, I deployed it as an interactive web application using **Streamlit**.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url-goes-here.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://allgreektome.streamlit.app/)
 
 
 ## 📊 The Dataset
